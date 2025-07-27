@@ -1,0 +1,12 @@
+﻿  Opengle.cpp
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(61,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(159,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(273,25): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(345,21): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(350,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(372,34): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(388,25): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(430,25): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\user\Documents\Programas\C\Glut\Glut\Opengle.cpp(442,25): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  Glut.vcxproj -> C:\Users\user\Documents\Programas\C\Glut\x64\Debug\Glut.exe
+          1 arquivo(s) copiado(s).
