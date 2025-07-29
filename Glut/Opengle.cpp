@@ -1,8 +1,6 @@
 ﻿#include <GL/glut.h>
 #include <vector>
-#include <cmath>
 #include <ctime>
-#include <algorithm>
 #include <memory>
 #include <string>
 
